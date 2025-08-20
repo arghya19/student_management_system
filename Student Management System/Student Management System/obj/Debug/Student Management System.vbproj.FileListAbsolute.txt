@@ -1,0 +1,71 @@
+C:\Users\admin\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\admin\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\admin\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\admin\source\repos\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.login.resources
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.xml
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.MenuPage.resources
+C:\Users\admin\source\repos\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddSinfo.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.AssemblyReference.cache
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddSinfo.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.login.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.MenuPage.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.cache
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.CoreCompileInputs.cache
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.xml
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.UpdateSinfo.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddStuMks.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.UpdateStuMks.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.DeleteStuMks.resources
+C:\Users\Arghya\OneDrive\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.ReportShow.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\admin\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\admin\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\admin\Desktop\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddSinfo.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddStuMks.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.DeleteStuMks.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.ReportShow.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.UpdateStuMks.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.login.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.MenuPage.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student_Management_System.UpdateSinfo.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.xml
+C:\Users\admin\Desktop\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\bin\Debug\Student Management System.xml
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.vbprojAssemblyReference.cache
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddSinfo.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.AddStuMks.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.DeleteStuMks.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.ReportShow.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.UpdateStuMks.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.login.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.MenuPage.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.UpdateSinfo.resources
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.xml
+C:\Users\admin\Desktop\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
